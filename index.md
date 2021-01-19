@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Amelir_2018_analysis
 
 You can use the [editor on GitHub](https://github.com/soledadli/amelir_2018_analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
